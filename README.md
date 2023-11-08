@@ -39,4 +39,15 @@ Task - Develop a dashboard that we can present to the client at our next meeting
 
 ![image](https://github.com/Veenitpathe/KPMG-Project/assets/128510226/a93f25b5-58d8-4a2b-b819-823050a37f65)
 
+# Insights from Dashboard
+
+Marketing team should deploy the targeted model based on -
+
+Customer between age 30 to 49.
+Male customers in the mid-year between April - July and in midweek around Thursday.
+Female customers around October and in the start of the weekend, Saturday.
+Customers in the Mass Consumer Segment.
+Customers related to Financial Services and Manufacturing Industries.
+Solex brand and Standard product as the top priority.
+Customers living in New South Wales.
 
